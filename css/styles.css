@@ -284,23 +284,23 @@ body.lock{
     height: 60px;
 }
 #service1{
-    background: url(./img/services/service1.webp) center no-repeat;
+    background: url(/img/services/service1.webp) center no-repeat;
     background-size: cover;
 }
 #service2{
-    background: url(./img/services/service2.webp) center no-repeat;
+    background: url(/img/services/service2.webp) center no-repeat;
     background-size: cover;
 }
 #service3{
-    background: url(./img/services/service3.webp) center no-repeat;
+    background: url(/img/services/service3.webp) center no-repeat;
     background-size: cover;
 }
 #service4{
-    background: url(./img/services/service4.webp) center no-repeat;
+    background: url(/img/services/service4.webp) center no-repeat;
     background-size: cover;
 }
 #service5{
-    background: url(./img/services/service5.webp) center no-repeat;
+    background: url(/img/services/service5.webp) center no-repeat;
     background-size: cover;
 }
 
@@ -309,7 +309,7 @@ body.lock{
 /* about */
 
 #about-image{
-    background: url(./img/about.webp) center no-repeat;
+    background: url(/img/about.webp) center no-repeat;
     background-size: cover;
 }
 
